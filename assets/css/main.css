@@ -7,7 +7,8 @@ body {
     background-color: black;
 }
 
-video {
+video,
+iframe{
     object-fit: contain;
     object-position: center center;
     height: 100%;

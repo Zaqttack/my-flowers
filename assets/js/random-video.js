@@ -1,6 +1,6 @@
 const videoURL = '//www.youtube.com/embed/'
 // youtube embed parameters
-// https://developers.google.com/youtube/player_parameters
+// https://developers.google.com/youtube/player_parameters#Parameters
 const videoControls = [
     '?version=3',
     '&rel=1',
@@ -8,6 +8,7 @@ const videoControls = [
     '&autoplay=1',
     // '&mute=1',
     '&controls=0',
+    // '&disablekb=1',
     // '&iv_load_policy=3',
     // '&modestbranding=1',
     '&playlist=' // this has to go last
@@ -19,6 +20,9 @@ const videoIDs = [
     'B_qnI1WrlnU', // Update Day - Nirvana The Band The Show
     'urZukvTwvfQ', // J Roc - It Could Happen To You. - Trailer Park Boys
     'Bx-bHmSbPJ4', // How to be a Slytherin - Sailor J
+    'wAu_fYHZKLs', // [SFM] Time Traveler
+    'q6EoRBvdVPQ', // Yee
+    'WUj-EGTJc3E', // Egypt Military Parade - YMCA Version
 ]
 
 document.onreadystatechange = function () {

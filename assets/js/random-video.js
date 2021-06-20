@@ -8,7 +8,7 @@ const videoControls = [
     '&autoplay=1',
     // '&mute=1',
     '&controls=0',
-    // '&disablekb=1',
+    '&disablekb=1',
     // '&iv_load_policy=3',
     // '&modestbranding=1',
     '&playlist=' // this has to go last
@@ -36,9 +36,9 @@ document.onreadystatechange = function () {
 
 // force play of I may not know my flowers....
 window.addEventListener('keydown', (event) => {
-    if (event.ctrlKey === true && event.key === 'b') {
+    if (event.key === 'b') {
         video = document.querySelector('iframe')
-        video.setAttribute('src', videoURL + 'ZL38UKvHhuQ' + videoControls.join('') + videoChosen)
+        video.setAttribute('src', videoURL + videoIDs[0] + videoControls.join('') + videoIDs[0])
         console.log('forced bitch video')
     }
 })

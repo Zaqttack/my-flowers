@@ -23,6 +23,8 @@ const videoIDs = [
     'wAu_fYHZKLs', // [SFM] Time Traveler
     'q6EoRBvdVPQ', // Yee
     'WUj-EGTJc3E', // Egypt Military Parade - YMCA Version
+    'EIxF_Esi8MU', // Animaniac
+    'GbmP2c6TGKc', // Why am I anxious?
 ]
 
 document.onreadystatechange = function () {

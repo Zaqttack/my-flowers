@@ -26,6 +26,7 @@ const videoIDs = [
     'EIxF_Esi8MU', // Animaniac
     'GbmP2c6TGKc', // Why am I anxious?
     'lT0AfMjN32A', // "Jeff Bezos" Bo Burnham INSIDE
+    'gbQS1ExSeBQ', // T-pose Raccoon With Halo Theme
 ]
 
 document.onreadystatechange = function () {

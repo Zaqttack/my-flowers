@@ -27,6 +27,24 @@ const videoIDs = [
     'GbmP2c6TGKc', // Why am I anxious?
     'lT0AfMjN32A', // "Jeff Bezos" Bo Burnham INSIDE
     'gbQS1ExSeBQ', // T-pose Raccoon With Halo Theme
+    'P7JRvwfHFwo', // America, Fuck Yeah!
+    'bO-NaEj2dQ0', // MTC - S3RL
+    'uTl8ZYImjBQ', // Artificial Intelligence (Official Video)
+    'b8HO6hba9ZE', // [SFM] We like to party
+    'VBBMfHGMs7I&t=1063s', // Making An Emotional Connection Through Freestyle - Omegle Bars 18
+    '8FhGOV7fs64', // Медведь просит есть
+    'vSF3u5eaT7s', // Tom Scott rips a fat cloud (Content Aware Scale)
+    'Zo6QPWfhDbs', // When the DOOM music kicks in
+    'EwTZ2xpQwpA', // "Chocolate Rain" Original Song by Tay Zonday
+    'QZShA_a-5r8', // Costumed Person Destroys The Drums At Children’s Music Concert - NyangoStar -
+    '3HjIljJd-o0', // Shoes
+    'NB-9XoUQw3o', // Duck dancing Hatsune Miku Oblivion
+    '2_rY6gn7GNM', // Austin Powers in Mass Effect
+    'qcdkbcjTBoE', // Seal Yells and Sighs Like Man
+    't40AkX1wX_8', // 4 BIG GUYS - (Full Version)
+    'GNndX9qua1o', // egg song
+    'qcR_JYORXx8', // Cannon Crashing a Noob in RuneScape
+    'ZWeC4l5661U', // Paradox Dev vs QA
 ]
 
 document.onreadystatechange = function () {

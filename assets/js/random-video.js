@@ -45,6 +45,7 @@ const videoIDs = [
     'GNndX9qua1o', // egg song
     'qcR_JYORXx8', // Cannon Crashing a Noob in RuneScape
     'ZWeC4l5661U', // Paradox Dev vs QA
+    '_XVDvNpQmas', // What Google Stadia Would Have Looked Like in the '90s
 ]
 
 document.onreadystatechange = function () {

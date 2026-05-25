@@ -7,12 +7,6 @@ body {
     background-color: black;
 }
 
-#overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1;
-}
-
 video {
     display: block;
     object-fit: contain;

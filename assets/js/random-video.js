@@ -33,6 +33,9 @@ const videoIDs = [
     'qcR_JYORXx8', // Cannon Crashing a Noob in RuneScape
     'ZWeC4l5661U', // Paradox Dev vs QA
     '_XVDvNpQmas', // What Google Stadia Would Have Looked Like in the '90s
+    'xuCn8ux2gbs', // history of the entire world, i guess
+    'XM4VyBxw378', // Yoshi's Island MEMES (2019)
+    'yIL9wLxG01M', // WASO BEECONNEE
 ]
 
 // start times in seconds for videos that should begin at a specific point
